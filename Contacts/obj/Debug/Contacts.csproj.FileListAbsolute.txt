@@ -1,0 +1,12 @@
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\bin\Debug\ContactsDB.mdf
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\bin\Debug\ContactsDB_log.ldf
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\bin\Debug\Contacts.exe
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\bin\Debug\Contacts.pdb
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\obj\Debug\Contacts.exe
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\polin_go7afbi\source\repos\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
